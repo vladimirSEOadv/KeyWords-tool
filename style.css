@@ -1,4 +1,4 @@
-.main {
+/* .main {
 	width: 100%;
 }
 .controls wrap {
@@ -14,6 +14,17 @@
 	resize: none;
 	background-color: #b69191;
 	font-size: 15px;
+}
+*/
+
+.container-fluid {
+}
+textarea {
+	resize: none;
+	font-size: 15px;
+	background-color: #b69191;
+}
+.container {
 }
 button {
 	margin: 10px;
